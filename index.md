@@ -27,6 +27,7 @@ Before this, my previous works experience are as follows:
 Selected Publications
 ===========
 
+* (ICCV 2021) Meta Gradient Adversarial Attack.
 * (T-IP) Cross-Modal Knowledge Adaptation for Language-Based Person Search.
 * (T-CSVT) Show, tell and summarize: Dense video captioning using visual cue aided sentence summarization.
 * (T-IP) Feature pyramid reconfiguration with consistent loss for object detection.
@@ -46,8 +47,8 @@ Academic Services
 ===========
 
 * Program Committee: 
-    * IEEE-CYBER 2018, ICANN 2019, ICONIP 2019
-* Invited Reviewer:
+    * IEEE-CYBER 2018, ICANN 2019, ICONIP 2019, ICONIP 2021
+* Reviewer:
     * Conference: AAAI, IJCNN, IROS, ICANN, ICONIP, ICCSIP, IEEE-MFi, IEEE-CYBER
     * Journal: IEEE Access, IEEE RA-L, IEEE T-II, IJARS, IJ-BHI, JCAS, JJCIT, KAIS, Neurocomputing
 
