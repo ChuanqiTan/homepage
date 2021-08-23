@@ -41,7 +41,7 @@ Selected Publications
 <!--* (IJCNN 2018) DHA: Lidar and vision data fusion-based on road object classifier-->
 * (T-CSDS) Fused Fuzzy Petri Nets: A Shared Control Method for Brain–Computer Interface Systems.
 * (ICASSP 2018) Deep Transfer Learning for EEG-based Brain Computer Interface.
-* (ICONIP 2017) Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography.
+* (ICONIP 2017) Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography. (**Best Student Paper Award**)
 
 Academic Services
 ===========
