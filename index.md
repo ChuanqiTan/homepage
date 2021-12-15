@@ -18,7 +18,7 @@ Work Experience
 
 Now, I am a researcher for the [Tencent](https://www.tencent.com/){:target="_blank"} Technology Co., Ltd. Working on understanding the world through computer vision technology.
 Before this, my previous works experience are as follows:
-* Leader of technical department at TDRH Education Company & Ztgt Company in 2015.
+* Leader of technical department at TDRH & Ztgt in 2015.
 * Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014.
 * Senior research & develop engineer at Renmin Search Company (renamed to [China Search](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
 
