@@ -63,3 +63,10 @@ Awards
 * Excellent Graduate Student of BIT, 2011
 * IBM Blue Road Award, 2011
 * BIT Scholarship, 2009
+
+
+Open Source Projects
+===========
+* Python Package: [concurrent-helper](https://pypi.org/project/concurrent-helper/){:target="_blank"} 
+* VIM configure: [vimrc-8](https://github.com/ChuanqiTan/vimrc-8){:target="_blank"} 
+* Notes: [introduction-to-algorithms-notes](https://github.com/ChuanqiTan/introduction-to-algorithms-notes){:target="_blank"} 
