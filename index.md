@@ -59,7 +59,7 @@ Awards
 * Good+ Contributor of Tencent, 2019
 * Outstanding Performance Award of Tencent, 2019
 * CSC Scholarship, 2018
-* [Best Student Paper Award](images/ICONIP_2017_Best_Student_Paper.jpg){:target="_blank"} from ICONIP 2017. 
+* [Best Student Paper Award](images/ICONIP_2017_Best_Student_Paper.jpg){:target="_blank"} from ICONIP 2017 
 * Excellent Graduate Student of BIT, 2011
 * IBM Blue Road Award, 2011
 * BIT Scholarship, 2009
@@ -67,6 +67,6 @@ Awards
 
 Open Source Projects
 ===========
-* Python Package: [concurrent-helper](https://pypi.org/project/concurrent-helper/){:target="_blank"} 
-* VIM configure: [vimrc-8](https://github.com/ChuanqiTan/vimrc-8){:target="_blank"} 
-* Notes: [introduction-to-algorithms-notes](https://github.com/ChuanqiTan/introduction-to-algorithms-notes){:target="_blank"} 
+* [concurrent-helper](https://pypi.org/project/concurrent-helper/){:target="_blank"}: A Python package for concurrent programs.
+* [vimrc-8](https://github.com/ChuanqiTan/vimrc-8){:target="_blank"}: The VIM configure I am using.
+* [introduction-to-algorithms-notes](https://github.com/ChuanqiTan/introduction-to-algorithms-notes){:target="_blank"}: Reading notes for book \<Introduction to Algorithms\>.
