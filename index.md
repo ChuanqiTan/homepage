@@ -56,7 +56,6 @@ Awards
 
 * [Excellence Research and Development Award of Tencent](images/Excellence_RD_award.jpg){:target="_blank"}, 2020
 * Outstanding Contributor of Tencent, 2020
-* Good+ Contributor of Tencent, 2019
 * Outstanding Performance Award of Tencent, 2019
 * CSC Scholarship, 2018
 * [Best Student Paper Award](images/ICONIP_2017_Best_Student_Paper.jpg){:target="_blank"} from ICONIP 2017 
