@@ -10,14 +10,16 @@ sort_index: 10
 <br/>
 
 
-I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship, working with Prof. Dong Xu. My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision, BCI and Robot.
+I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship. My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision, BCI and Robot.
 
 
 Work Experience
 ===========
 
-Now, I am a researcher for the [Tencent](https://www.tencent.com/){:target="_blank"} Technology Co., Ltd. Working on understanding the world through computer vision technology.
+Now, I am CEO of [deepAI](http://www.deepai.net){:target="_blank"} Technology Co., Ltd, where primary focus is on developing business applications based on Artificial Intelligence (AI) and Large Language Models (LLM).
+
 Before this, my previous works experience are as follows:
+* Senior algorithm researcher at [Tencent](http://www.tencent.com){:target="_blank"} in 2019-2022.
 * Leader of technical department at Ztgt & TDRH in 2015.
 * Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014.
 * Senior research & develop engineer at Renmin Search Company (renamed to [China Search](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
