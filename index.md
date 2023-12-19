@@ -3,7 +3,7 @@ layout: page
 sort_index: 10
 ---
 
-|![avatar](images/avatar_new.jpg){: style="border-radius:50%; width:180px"}| <img width=150/> | <I style="font-size: 25px;"> Chuanqi Tan </I> <br/> <br/> Email: chuanqi.tan ### gmail (dot) com <br /> [<a target="_blank" href="http://notes.tanchuanqi.com">Blog</a>] &amp; [<a target="_blank" href="https://scholar.google.com/citations?user=UEsWArkAAAAJ">Google Scholar</a>]|
+|![avatar](images/avatar_new.jpg){: style="border-radius:50%; width:180px"}| <img width=150/> | <I style="font-size: 25px;"> Chuanqi Tan </I> <br/> <br/> Email: chuanqi.tan ### gmail (dot) com <br /> [<a target="_blank" href="https://scholar.google.com/citations?user=UEsWArkAAAAJ">Google Scholar</a>]|
 
 
 
