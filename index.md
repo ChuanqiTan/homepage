@@ -66,9 +66,9 @@ Awards
 * BIT Scholarship, 2009
 
 
-Open Source Projects
+<!--Open Source Projects
 ===========
 * [concurrent-helper](https://github.com/ChuanqiTan/concurrent_helper){:target="_blank"}: Python package. The Simplest and Most Powerful Concurrent Helper.
 * [XCache](https://github.com/ChuanqiTan/xcache){:target="_blank"}: Python package. A simple and thread-safe LRU cache, which support key-func, release-func and hit-stat.
 * [vimrc-8](https://github.com/ChuanqiTan/vimrc-8){:target="_blank"}: The VIM configure I am using.
-* [introduction-to-algorithms-notes](https://github.com/ChuanqiTan/introduction-to-algorithms-notes){:target="_blank"}: Reading notes for book \<Introduction to Algorithms\>.
+* [introduction-to-algorithms-notes](https://github.com/ChuanqiTan/introduction-to-algorithms-notes){:target="_blank"}: Reading notes for book \<Introduction to Algorithms\>.-->
