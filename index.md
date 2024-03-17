@@ -51,7 +51,7 @@ Academic Services
     * IEEE-CYBER 2018, ICANN 2019, ICONIP 2019, ICONIP 2021
 * Reviewer:
     * Conference: AAAI, IJCNN, IROS, ICANN, ICONIP, ICCSIP, IEEE-MFi, IEEE-CYBER
-    * Journal: IEEE Access, IEEE RA-L, IEEE T-II, IJARS, IJ-BHI, JCAS, JJCIT, KAIS, Neurocomputing
+    * Journal: Nature Communications, IEEE RA-L, IEEE T-II, IJARS, IJ-BHI, JCAS, JJCIT, KAIS, Neurocomputing, IEEE Access 
 
 Awards
 ===========
